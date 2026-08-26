@@ -19,34 +19,34 @@
 <p>
   <b>Languages</b>
   <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white&logo=openjdk" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logoColor=white&logo=cplusplus" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white&logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logoColor=white&logo=cplusplus" alt="C++" />
 </p>
 
 <p>
   <b>Libraries &amp; Frameworks</b>
   <br />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logoColor=white&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logoColor=white&logo=flask" alt="Flask" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logoColor=white&logo=numpy" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logoColor=white&logo=pandas" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logoColor=white&logo=scikitlearn" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logoColor=white&logo=tensorflow" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logoColor=white&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logoColor=white&logo=flask" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logoColor=61DAFB&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logoColor=white&logo=numpy" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logoColor=white&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logoColor=white&logo=scikitlearn" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoColor=white&logo=tensorflow" alt="TensorFlow" />
 </p>
 
 <p>
   <b>Databases &amp; Tools</b>
   <br />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logoColor=white&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logoColor=white&logo=sqlite" alt="SQLite" />
-  <img src="https://img.shields.io/badge/unittest-3776AB?style=flat-square&logoColor=white&logo=python" alt="unittest" />
-  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logoColor=white&logo=jasmine" alt="Jasmine" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logoColor=white&logo=vitest" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logoColor=white&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logoColor=white&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logoColor=white&logo=sqlite" alt="SQLite" />
+  <img src="https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logoColor=white&logo=python" alt="unittest" />
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logoColor=white&logo=jasmine" alt="Jasmine" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logoColor=white&logo=vitest" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git" alt="Git" />
 </p>
 
 ## 📊 GitHub Stats
