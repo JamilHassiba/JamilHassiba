@@ -16,9 +16,10 @@
 
 ## 🛠️ My Stack
 
+
+### Languages
+
 <p>
-  <b>Languages</b>
-  <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white&logo=typescript" alt="TypeScript" />
@@ -26,9 +27,10 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logoColor=white&logo=cplusplus" alt="C++" />
 </p>
 
+
+### Libraries & Frameworks
+
 <p>
-  <b>Libraries &amp; Frameworks</b>
-  <br />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logoColor=white&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logoColor=white&logo=flask" alt="Flask" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logoColor=61DAFB&logo=react" alt="React" />
@@ -38,9 +40,10 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoColor=white&logo=tensorflow" alt="TensorFlow" />
 </p>
 
+
+### Databases & Tools
+
 <p>
-  <b>Databases &amp; Tools</b>
-  <br />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logoColor=white&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logoColor=white&logo=sqlite" alt="SQLite" />
   <img src="https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logoColor=white&logo=python" alt="unittest" />
