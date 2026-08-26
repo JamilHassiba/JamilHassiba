@@ -5,13 +5,13 @@
 <img width="300" src="./assets/title.svg" alt="Hello. I'm Jamil, a coding enthusiast" />
 
 <pre>
-  🧑‍💻 About me
+  🧑‍💻 About me                                                        
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   🎓  Studying        →  BSc Computer Science, University of Manchester
-  🤖  Interested in   →  AI, Machine Learning, Software Engineering
-  🌱  Diving deeper   →  FastAPI, PostgreSQL, AI Agents with MCP
-  🎯  Goal for year   →  Code and Learn Consistently
-  🧩  Away from code  →  Chess, Speedcubing, Swimming
+  🤖  Interested in   →  AI, Machine Learning, Software Engineering    
+  🌱  Diving deeper   →  FastAPI, PostgreSQL, AI Agents with MCP       
+  🎯  Goal for year   →  Code and Learn Consistently                   
+  🧩  Away from code  →  Chess, Speedcubing, Swimming                  
 </pre>
 
 </div>
