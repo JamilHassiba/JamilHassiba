@@ -1,9 +1,11 @@
 <div align="left">
 
 <img align="right" height="320" src="./assets/coding-animation.gif" alt="coding animation" />
-<img width="300" src="./assets/title.svg" alt="Hello. I'm Jamil, a coding enthusiast" />
 
 <br>
+
+<img width="300" src="./assets/title.svg" alt="Hello. I'm Jamil, a coding enthusiast" />
+
 <br>
 
 <img width="595" src="./assets/about.svg" alt="About me" />
