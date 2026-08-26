@@ -70,5 +70,5 @@
 
 <p>
   <img align="middle" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="" />
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  <em>I love connecting with new people, so if you want to say hi, I'd be happy to get to know you! :)</em>
 </p>
