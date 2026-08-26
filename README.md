@@ -3,10 +3,10 @@
 <img align="right" height="320" src="./assets/coding-animation.gif" alt="coding animation" />
 
 <br>
+<br>
 
 <img width="400" src="./assets/title.svg" alt="Hello there! I'm Jamil, a coding enthusiast" />
 
-<br>
 <br>
 
 <img width="595" src="./assets/about.svg" alt="About me" />
