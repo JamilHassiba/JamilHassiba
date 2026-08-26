@@ -19,7 +19,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JamilHassiba&theme=tokyonight&border=8B949E&border_radius=10" alt="GitHub streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JamilHassiba&theme=tokyonight&border=8B949E&border_radius=10&stroke=1A1B27" alt="GitHub streak" />
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=JamilHassiba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&show=reviews&border_radius=10&border_color=8B949E" alt="GitHub stats" />
 </p>
 
