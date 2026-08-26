@@ -1,8 +1,9 @@
 <div align="center">
 
 <img align="right" height="276" src="./assets/coding-animation.gif" alt="coding animation" />
-
 <img width="300" src="./assets/title.svg" alt="Hello. I'm Jamil, a coding enthusiast" />
+
+<br><br>
 
 <pre>🧑‍💻 About me                                                        
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
