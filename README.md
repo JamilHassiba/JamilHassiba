@@ -4,7 +4,7 @@
 
 <br>
 
-<img width="350" src="./assets/title.svg" alt="Hello there! I'm Jamil, a coding enthusiast" />
+<img width="400" src="./assets/title.svg" alt="Hello there! I'm Jamil, a coding enthusiast" />
 
 <br>
 
