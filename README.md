@@ -3,16 +3,7 @@
 <img align="right" height="276" src="./assets/coding-animation.gif" alt="coding animation" />
 <img width="300" src="./assets/title.svg" alt="Hello. I'm Jamil, a coding enthusiast" />
 
-<br>
-
-<b>🧑‍💻 About me</b>
-<br>
-<br>
-<code>🎓&nbsp;&nbsp;Studying&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;BSc Computer Science, University of Manchester</code><br>
-<code>🤖&nbsp;&nbsp;Interested&nbsp;in&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;AI, Machine Learning, Software Engineering</code><br>
-<code>🌱&nbsp;&nbsp;Diving&nbsp;deeper&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;FastAPI, PostgreSQL, AI Agents with MCP</code><br>
-<code>🎯&nbsp;&nbsp;Goal&nbsp;for&nbsp;year&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;Code and Learn Consistently</code><br>
-<code>🧩&nbsp;&nbsp;Away&nbsp;from&nbsp;code&nbsp;&nbsp;→&nbsp;&nbsp;Chess, Speedcubing, Swimming</code>
+<img width="595" src="./assets/about.svg" alt="About me" />
 
 </div>
 

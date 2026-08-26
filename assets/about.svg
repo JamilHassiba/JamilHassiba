@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="595" height="170" viewBox="0 0 595 170" role="img" aria-label="About me: studying BSc Computer Science at the University of Manchester; interested in AI, Machine Learning and Software Engineering; diving deeper into FastAPI, PostgreSQL and AI Agents with MCP; goal for the year is to code and learn consistently; away from code enjoys chess, speedcubing and swimming">
+  <style>
+    .bg   { fill: #f6f8fa; }
+    .rule { stroke: #d1d9e0; }
+    text  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+             font-size: 13.6px; fill: #1f2328; }
+    .hdr  { font-weight: 600; }
+    @media (prefers-color-scheme: dark) {
+      .bg   { fill: #161b22; }
+      .rule { stroke: #30363d; }
+      text  { fill: #e6edf3; }
+    }
+  </style>
+  <rect class="bg" x="0" y="0" width="595" height="170" rx="6" />
+  <text class="hdr" x="16" y="32" xml:space="preserve">🧑‍💻 About me</text>
+  <line class="rule" x1="16" y1="44" x2="579" y2="44" stroke-width="1" />
+  <text class="row" x="16" y="64" xml:space="preserve">🎓  Studying        →  BSc Computer Science, University of Manchester</text>
+  <text class="row" x="16" y="84" xml:space="preserve">🤖  Interested in   →  AI, Machine Learning, Software Engineering</text>
+  <text class="row" x="16" y="104" xml:space="preserve">🌱  Diving deeper   →  FastAPI, PostgreSQL, AI Agents with MCP</text>
+  <text class="row" x="16" y="124" xml:space="preserve">🎯  Goal for year   →  Code and Learn Consistently</text>
+  <text class="row" x="16" y="144" xml:space="preserve">🧩  Away from code  →  Chess, Speedcubing, Swimming</text>
+</svg>
